@@ -1,7 +1,7 @@
 {
   "name": "wilde-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Theme using colours similar to DA UI from Sublime Text",
   "keywords": [
     "syntax",
