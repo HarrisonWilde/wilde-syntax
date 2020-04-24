@@ -1,0 +1,15 @@
+{
+  "name": "wilde-syntax",
+  "theme": "syntax",
+  "version": "0.3.0",
+  "description": "Theme using colours similar to DA UI from Sublime Text",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/HarrisonWilde/wilde-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
